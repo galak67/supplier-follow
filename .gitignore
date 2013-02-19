@@ -1,6 +1,11 @@
+.DS_Store 
+.project
+.settings
+target
+
 *.class
 
 # Package Files #
-*.jar
-*.war
-*.ear
+#*.jar
+#*.war
+#*.ear
