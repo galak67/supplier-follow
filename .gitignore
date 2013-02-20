@@ -1,4 +1,5 @@
 .DS_Store 
+.classpath
 .project
 .settings
 target
@@ -6,6 +7,6 @@ target
 *.class
 
 # Package Files #
-#*.jar
-#*.war
-#*.ear
+*.jar
+*.war
+*.ear
